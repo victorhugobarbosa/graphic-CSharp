@@ -2,7 +2,7 @@
 
 > School project for practicing linked lists
 
-<img src="imagem.png" alt="sample image">
+<img src="https://raw.githubusercontent.com/victorhugobarbosa/Grafic-CSharp/main/grafic%20csharp%20img.png" alt="sample image">
 
 * `NOTE:` The program was made in Portuguese because the teacher sent
 
