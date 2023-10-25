@@ -7,7 +7,7 @@
 </div>
 
 
-* `NOTE:` The program was made in Portuguese because the teacher sent
+* `NOTE:` The program was made in Portuguese because the teacher ordered
 <br> <br>
 
 # 🤝 Collaborators :
