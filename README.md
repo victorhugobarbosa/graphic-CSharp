@@ -1,4 +1,4 @@
-# Grafic-CSharp
+# app of graphic made in c#
 
 > School project for practicing linked lists
 
